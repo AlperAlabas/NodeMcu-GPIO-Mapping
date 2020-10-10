@@ -11,3 +11,5 @@
 #define Txio 1
 #define Sd2io 9
 #define Sd3io 10 
+
+/*write this code top of setup function*/
